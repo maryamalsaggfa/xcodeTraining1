@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1774F6ED2AD2A409009CF53F /* PresentMeSUHA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1774F6EC2AD2A409009CF53F /* PresentMeSUHA.swift */; };
 		5CC9325D2AD283A900A367BE /* xcodeTraining1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC9325C2AD283A900A367BE /* xcodeTraining1App.swift */; };
 		5CC9325F2AD283A900A367BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC9325E2AD283A900A367BE /* ContentView.swift */; };
 		5CC932612AD283AA00A367BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CC932602AD283AA00A367BE /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1774F6EC2AD2A409009CF53F /* PresentMeSUHA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentMeSUHA.swift; sourceTree = "<group>"; };
 		5CC932592AD283A900A367BE /* xcodeTraining1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xcodeTraining1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CC9325C2AD283A900A367BE /* xcodeTraining1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcodeTraining1App.swift; sourceTree = "<group>"; };
 		5CC9325E2AD283A900A367BE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				5CC9325C2AD283A900A367BE /* xcodeTraining1App.swift */,
 				5CC9325E2AD283A900A367BE /* ContentView.swift */,
 				5CC9326A2AD28C0300A367BE /* SwiftUIView2.swift */,
+				1774F6EC2AD2A409009CF53F /* PresentMeSUHA.swift */,
 				5CC932602AD283AA00A367BE /* Assets.xcassets */,
 				5CC932622AD283AA00A367BE /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				5CC9325F2AD283A900A367BE /* ContentView.swift in Sources */,
 				5CC9325D2AD283A900A367BE /* xcodeTraining1App.swift in Sources */,
+				1774F6ED2AD2A409009CF53F /* PresentMeSUHA.swift in Sources */,
 				5CC9326B2AD28C0300A367BE /* SwiftUIView2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
